@@ -1,4 +1,4 @@
 pandas
 pyarrow
-mlx-ml
+mlx-lm
 
